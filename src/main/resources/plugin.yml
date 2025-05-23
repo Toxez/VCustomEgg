@@ -1,0 +1,9 @@
+name: VCustomEgg
+version: '${project.version}'
+main: ua.tox8729.vcustomegg.VCustomEgg
+api-version: '1.16'
+author: [ Tox_8729 ]
+
+commands:
+  vcustomeggs:
+    description: основная команда
